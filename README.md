@@ -12,24 +12,24 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/Bishalsingh292" target="blank"><img align="center"
+    <a href="https://twitter.com/Bishalsingh292" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="rajsingh_2054" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/bishal-singh292" target="blank"><img align="center"
+            alt="Bishalsingh292" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/bishal-singh292" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="raj-singh" height="30" width="40" /></a>
-    <a href="https://instagram.com/bishalsingh292" target="blank"><img align="center"
+            alt="bishal-singh292" height="30" width="40" /></a>
+    <a href="https://instagram.com/bishalsingh292" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="raj_singh211" height="30" width="40" /></a>
-    <a href="https://codeforces.com/profile/Bishal_Singh" target="blank"><img align="center"
+            alt="bishalsingh292" height="30" width="40" /></a>
+    <a href="https://codeforces.com/profile/Bishal_Singh" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
-            alt="rajsingh211" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/bishalsingh292" target="blank"><img align="center"
+            alt="Bishal_Singh" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/bishalsingh292" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="rajsinghh29" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/bishalsingh292" target="blank"><img align="center"
+            alt="bishalsingh292" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/bishalsingh292" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-            alt="rajsinghh29" height="30" width="40" /></a>
+            alt="bishalsingh292" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
